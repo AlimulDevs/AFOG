@@ -8,7 +8,7 @@ type Mahasiswa struct {
 	Umur int
 }
 
-func main() {
+func Tes() {
 	mahasiswa := Mahasiswa{"Alice", "12345", 21}
 	fmt.Printf("Mahasiswa: %s, Nim: %s, Umur: %d\n", mahasiswa.Nama, mahasiswa.Nim, mahasiswa.Umur)
 
