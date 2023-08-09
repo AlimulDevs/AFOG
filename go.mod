@@ -1,3 +1,3 @@
-module github.com/AlimulDevs/AFOG/v1
+module github.com/AlimulDevs/AFOG
 
 go 1.19
